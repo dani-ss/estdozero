@@ -1,0 +1,26 @@
+---
+title: "Apresentação"
+author: "Danielly Santos Severino"
+date: "2021"
+output: 
+  html_document:
+    theme: yeti 
+    highlight: tango 
+---
+
+# **O que é Estatística?**
+
+É um vasto conjunto de técnicas utilizadas para coletar e analisar dados. A quantidade de dados disponíveis apresenta um crescimento significativo ao longo dos anos e, com isso, há uma maior demanda para gerar e interpretar informações úteis através desses dados. 
+
+# **Sobre mim**
+
+Eu faço graduação em Estatística na UFMG e me interessei pela área logo no final do ensino médio. Sempre gostei de dar aulas e isso faz parte da minha realidade há muitos anos, ao entrar na faculdade percebi a necessidade por parte de alguns alunos e outros contatos em relação às matérias da estatística. Por isso, resolvi divulgar alguns materias que criei afim de contribuir com o aprendizado no contexto da análise de dados em geral.
+
+# **Sobre o curso**
+
+Este material foi desenvolvido para auxiliar aqueles que se interessam pela análise de dados de maneira a tentar incluir os leigos nesse assunto. 
+
+* O curso está dividido em vários módulos
+* O assunto a ser abordado é apresentado nos títulos
+* Todos os módulos possuem exercícios (muitos com resolução divulgada)
+* Sempre divulgo links de vídeos (alguns feitos por mim) e sites
